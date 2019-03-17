@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assig2tweening", "Assig2tweening\Assig2tweening.vcxproj", "{FB1A53F3-BDCC-4EEE-A2F3-B9279AB6EC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB1A53F3-BDCC-4EEE-A2F3-B9279AB6EC55}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB1A53F3-BDCC-4EEE-A2F3-B9279AB6EC55}.Debug|Win32.Build.0 = Debug|Win32
+		{FB1A53F3-BDCC-4EEE-A2F3-B9279AB6EC55}.Release|Win32.ActiveCfg = Release|Win32
+		{FB1A53F3-BDCC-4EEE-A2F3-B9279AB6EC55}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
